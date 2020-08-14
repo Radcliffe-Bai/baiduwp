@@ -1,5 +1,6 @@
 # baiduwp
 PanDownload Web, built with CloudFlare Workers
+Forked from https://github.com/TkzcM/baiduwp for backup
 # Demo
 No longer available due to abuse.
 # Usage
